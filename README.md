@@ -44,8 +44,12 @@ Self-reported versions:
 | ---  | --- | --- |
 | 16 Beta | 208 | 354 |
 | 15 | 208 | 354 |
+| 14 | 208 | 353 |
+| 13 | 208 | 353 |
+| 12 | 207 | 340 |
 | 11 | 207 | 335 |
 
+9 does not run on Mac OS 12.
 
 ```
 ftxvalidator build 208, FontToolbox.framework build 354
