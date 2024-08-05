@@ -37,6 +37,16 @@ What's available for download in summer 2024 (8 to 9 were "re-released" after in
 | 2016-09-13 | Font_Tools_for_Xcode_8.dmg        |
 | 2016-06-10 | Font_Tools_for_Xcode_8_beta.dmg   |
 
+
+Self-reported versions:
+
+| Xcode version | ftxvalidator build | FontToolbox.framework build |
+| ---  | --- | --- |
+| 16 Beta | 208 | 354 |
+| 15 | 208 | 354 |
+| 11 | 207 | 335 |
+
+
 ```
 ftxvalidator build 208, FontToolbox.framework build 354
 Usage:  ftxvalidator [-hlrRSTvV] [-t testList] [-o outputfile] fontfile
