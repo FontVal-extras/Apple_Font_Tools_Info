@@ -49,8 +49,10 @@ Self-reported versions:
 | 13 | 208 | 353 |
 | 12 | 207 | 340 |
 | 11 | 207 | 335 |
+| --- | --- | --- |
+| 9 | 207 | 257 |
 
-9 does not run on Mac OS 12.
+9 does not run on Mac OS 12; but manually unpacking then running works.
 
 ```
 ftxvalidator build 208, FontToolbox.framework build 354
