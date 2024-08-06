@@ -52,8 +52,11 @@ Self-reported versions:
 | --- | --- | --- |
 | 9 | 207 | 257 |
 | 8 | 207 | 239 |
+| 4 beta 1 | -- | 55 |
 
 8, 9 does not install on Mac OS 12; but manually unpacking then running works.
+4 beta 1 fails on recent Mac OS with "Objective-C garbage collection is no longer supported.".
+Some of the other tools report FontToolbox.framework version as "55".
 
 ```
 ftxvalidator build 208, FontToolbox.framework build 354
