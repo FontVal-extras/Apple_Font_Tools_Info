@@ -43,6 +43,7 @@ Self-reported versions:
 
 | Xcode version | ftxvalidator build | FontToolbox.framework build |
 | ---  | --- | --- |
+| 16 | 208 | 354 |
 | 16 Beta | 208 | 354 |
 | 15.1 | 208 | 354 |
 | 15 | 208 | 353 |
